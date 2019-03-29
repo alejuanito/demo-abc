@@ -11,6 +11,17 @@ Desafio microservicios
 * ec2-3-18-104-254.us-east-2.compute.amazonaws.com:8080/listclientes
 * ec2-3-18-104-254.us-east-2.compute.amazonaws.com:8080/kpideclientes
 
+## Tags
+* Microservices
+* Docker
+* CI
+* Junit
+* h2
+* swagger
+* loombok
+* aws
+* reactive (pending)
+
 ## Authors
 
 * **Alejandro Condori** - *Initial work* - (https://github.com/alejuanito)
